@@ -7,7 +7,7 @@ This project delivers a **personalized recommendation engine** designed for Tubi
 
 This combines **data-driven recommendation algorithms** with **human-readable context**, helping users confidently discover new content aligned with their tastes.
 
-🔗 [Live Demo on Hugging Face Spaces]([https://huggingface.co/spaces/YourSpaceLinkHere](https://huggingface.co/spaces/ah786/Tubi-Movie-Recommendation-System))  
+🔗 [Live Demo on Hugging Face Spaces]((https://huggingface.co/spaces/ah786/Tubi-Movie-Recommendation-System))  
 📊 [GitHub Repository](https://github.com/alihasan-786/Tubi-Movie-Recommendation-System)
 
 ---
@@ -105,8 +105,3 @@ This results in **personalized, easy-to-understand text** that enhances trust an
 ✅ Data pipeline ensures high-quality inputs, improving recommendation accuracy.
 
 ---
-
-## 🚀 Future Enhancements
-- Support for multi-movie input (recommendations based on combined preferences).
-- Explanation A/B testing (bullet points vs. paragraph format).
-- Feedback collection to continually improve recommendation relevance.
